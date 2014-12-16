@@ -10,7 +10,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Test h = new Tejjst();
+		Test h = new Test();
 		h.hello();
 
 	}
